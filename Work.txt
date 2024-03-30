@@ -1,0 +1,29 @@
+Service Provider
+
+Login,
+Train and Test Data Sets, 
+View MAE Comparison Results, 
+View MSE Comparison Results, 
+View RMSE Comparison Results, 
+Find Big Mart Sale Predicted Data Set Details, 
+Download Trained Data Sets, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+POST BIG MART SALES PREDICTED DATA SETS, 
+VIEW YOUR PROFILE.
+
+
+Members
+
+Item_Identifier,
+Outlet_Identifier,
+Item_Outlet_Sales,
+detection_values_model,
+model_name,
+MAE,
+MSE,
+RMSE.
